@@ -11,4 +11,5 @@ To run this application, you will need to have Java and Maven installed on your 
 
     Clone this repository.
     Open the terminal and navigate to the root directory of the project
-    Run the command mvn clean install (Profe esto en español, literamente lo hice a ciegas, por el problema del PC) to build the project.
+    Run the command mvn clean install to build the project
+    Then you open the main and run it
